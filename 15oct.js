@@ -107,7 +107,6 @@ for(let i=1;i<=10;i++){
 
 let number=5;
 let result=1;
-
 for(let i=1;i<=number;i++){
     result=result*i;
 }
@@ -117,4 +116,27 @@ console.log(result);
 // While Loop
 // Do While Loop
 // More Questions While and Do while loops
+
+
+// When to use For loop?
+// When we know the exact number of iterations!
+
+// WHat is while loop?
+// A while loop repeats a block of code as long as a specified condition is true.
+// It used when the number of iterations is not known beforehand.
+// Write a program to count the number of digits in a given number n.
+
+// Syntax:
+// while(condition){
+//     // code to be executed!
+// }
+
+// Example:
+let i=0;
+while(i<5){
+    i++;
+    console.log(i);
+}
+
+
 
