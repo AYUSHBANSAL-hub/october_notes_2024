@@ -196,3 +196,8 @@ function checkpresent(val, arr){
     }
     return false;
 }
+// .includes methods
+
+// SubArrays!!
+// We need to come prepared
+
