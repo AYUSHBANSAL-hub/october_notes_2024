@@ -131,3 +131,7 @@ for(let i=0;i<matrixC.length;i++){
     console.log(row);
     console.log("---------");
 }
+
+
+// Monday-> I will check the progress again!
+// Saturday -> Tomorrow -> Contest!! 
